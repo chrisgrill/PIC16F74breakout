@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MCP1790)(type KiCad)(uri /Users/chrisgrill/Projects/PIC16F74Breakout/libs/footprints.pretty)(options "")(descr ""))
+)
